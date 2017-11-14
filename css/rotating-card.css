@@ -2,7 +2,7 @@ body {
 	margin-top: 60px;
 	font-size: 14px;
 	font-family: "Helvetica Nueue",Arial,Verdana,sans-serif;
-	background-color: #E5E9ED;
+	background-color: #eed9c4;
 }
 .btn:hover,
 .btn:focus,
@@ -56,7 +56,7 @@ body {
 	position: absolute;
 	top: 0;
 	left: 0;
-	background-color: #FFF;
+	background-color: #fff0db;
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.14);
 }
 
@@ -115,7 +115,7 @@ body {
 }
 
 .card .content{
-    background-color: rgba(0, 0, 0, 0);
+    background-color: #fff0db;
     box-shadow: none;
     padding: 10px 20px 20px;
 }
@@ -224,7 +224,7 @@ body {
     display: block;
 }
 .white-board{
-    background-color: #FFFFFF;
+    background-color: #fff0db;
     min-height: 200px;
     padding: 60px 60px 20px;
 }
@@ -233,7 +233,7 @@ body {
 }
 
  pre.prettyprint{
-    background-color: #ffffff;
+    background-color: #fff0db;
     border: 1px solid #999;
     margin-top: 20px;
     padding: 20px;
